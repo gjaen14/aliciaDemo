@@ -1,0 +1,8 @@
+{
+  "name": "Alicia Elena - Executive Coaching",
+  "description": "Premium coaching and mentorship platform for high-level executives and Fortune 500 leaders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
