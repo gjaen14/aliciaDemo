@@ -1,10 +1,7 @@
 import Hero from "../components/Hero";
 import GapSection from "../components/GapSection";
-import SolutionsSection from "../components/SolutionsSection";
-import EcosystemDiagnostic from "../components/EcosystemDiagnostic";
-import FounderLetter from "../components/FounderLetter";
+import SolutionsTeaser from "../components/SolutionsTeaser";
 import TrustCenter from "../components/TrustCenter";
-import GrowthEcosystem from "../components/GrowthEcosystem";
 import ThreeHero from "../components/ThreeHero";
 
 export default function Home() {
@@ -15,10 +12,7 @@ export default function Home() {
         <Hero />
       </div>
       <GapSection />
-      <SolutionsSection />
-      <EcosystemDiagnostic />
-      <FounderLetter />
-      <GrowthEcosystem />
+      <SolutionsTeaser />
       <TrustCenter />
     </>
   );
